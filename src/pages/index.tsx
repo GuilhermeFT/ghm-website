@@ -3,11 +3,7 @@ import Head from 'next/head'
 import { Main } from '../styles/styles'
 
 import Banner from '../assets/images/banner.svg'
-import {
-  ImageContainer,
-  SmallTitle,
-
-} from '../styles/pages/home'
+import { ImageContainer, SmallTitle } from '../styles/pages/home'
 
 const Home: React.FC = () => {
   return (
